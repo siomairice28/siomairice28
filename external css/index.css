@@ -1,0 +1,7 @@
+body{
+    background-image:linear-gradient(rgba(128, 128, 128),rgba(77, 0, 0)),url(logo\(logo\).jpg);
+    font-size: 55;
+    color: 602020;
+    font-family: fantasy;
+    text-align: center;
+}
